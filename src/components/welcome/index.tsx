@@ -10,7 +10,8 @@ export function Welcome() {
             <Text style={s.titlte}>Boas vindas ao Nearby!</Text>
 
             <Text style={s.subtitle}>
-                Tenha cupons de vantagem para usar em seus estabelecimentos favoritos.
+                Tenha cupons de vantagem para usar em {"\n"}
+                seus estabelecimentos favoritos.
             </Text>
         </View>
     )
